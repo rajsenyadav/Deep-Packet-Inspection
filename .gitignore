@@ -1,0 +1,19 @@
+# Executables
+*.exe
+
+# Linux/macOS binaries
+dpi_engine
+
+# Object files
+*.o
+*.obj
+
+# Debug files
+*.pdb
+
+# VS Code
+.vscode/
+
+# Build folders
+build/
+cmake-build-*/
